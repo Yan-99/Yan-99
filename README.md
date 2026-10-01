@@ -1,17 +1,67 @@
-# 💫 About Me:
-Hello! I am a just noob coder, learning to code bit by bit, day by day. <br>Hoping to work and develop more cool projects soon!
+# 👋 Hi, I'm Wen Yan!
 
+💊 **Pharmacist | Healthcare Technology | Digital Health**
 
-# 💻 Tech Stack (still learning most!):
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+I'm a pharmacist exploring the intersection of **healthcare, technology, and software development**.
 
+I started learning to code out of curiosity and gradually began building tools around problems I've encountered in healthcare and pharmacy. I'm particularly interested in **AI, automation, clinical workflows, and digital health solutions**.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yan-99&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yan-99&theme=shades-of-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-99&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I’m still learning, but I enjoy turning an idea into something that actually works. 🚀
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yan-99&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Building
+
+### 💊 AI Medication Verification
+
+A web-based tool that uses AI to compare **medication images with prescription / dispensing labels** to support medication verification workflows.
+
+### 📷 Medication Barcode Scanner
+
+A browser-based medication identification tool using a device camera to scan **product identifiers and barcodes**.
+
+### 📋 Formulary & HSA Product Matching
+
+A tool for uploading formulary data and matching products against **Singapore-registered medicinal product data** to support medication classification and verification workflows.
+
+---
+
+## 🛠️ Technologies
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+**Frameworks & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+
+**Currently exploring**
+
+🤖 AI & LLM applications · 🏥 Digital Health · 📊 Healthcare Data · ⚙️ Automation
+
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Yan-99\&theme=shades-of-purple\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yan-99\&theme=shades-of-purple\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-99\&theme=shades-of-purple\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact)
+
+---
+
+### 💬 Let's Connect
+
+Always interested in learning, building, and exploring ideas at the intersection of **healthcare + technology**.
