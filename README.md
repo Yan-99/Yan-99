@@ -10,22 +10,6 @@ I’m still learning, but I enjoy turning an idea into something that actually w
 
 ---
 
-## 🚀 What I'm Building
-
-### 💊 AI Medication Verification
-
-A web-based tool that uses AI to compare **medication images with prescription / dispensing labels** to support medication verification workflows.
-
-### 📷 Medication Barcode Scanner
-
-A browser-based medication identification tool using a device camera to scan **product identifiers and barcodes**.
-
-### 📋 Formulary & HSA Product Matching
-
-A tool for uploading formulary data and matching products against **Singapore-registered medicinal product data** to support medication classification and verification workflows.
-
----
-
 ## 🛠️ Technologies
 
 **Languages & Frameworks**
