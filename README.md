@@ -52,16 +52,6 @@ A tool for uploading formulary data and matching products against **Singapore-re
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Yan-99\&theme=shades-of-purple\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yan-99\&theme=shades-of-purple\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-99\&theme=shades-of-purple\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact)
-
----
-
 ### 💬 Let's Connect
 
 Always interested in learning, building, and exploring ideas at the intersection of **healthcare + technology**.
